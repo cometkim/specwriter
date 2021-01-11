@@ -1,0 +1,9 @@
+# dotenv environment variable files
+.env*
+
+# gatsby files
+/.cache/
+/public/
+
+# Optional eslint cache
+.eslintcache

@@ -1,0 +1,13 @@
+{
+  "name": "@specwriter/monorepo",
+  "private": true,
+  "author": {
+    "name": "Hyeseong Kim",
+    "email": "hey@hyeseong.kim"
+  },
+  "license": "MIT",
+  "workspaces": [
+    "app",
+    "packages/*"
+  ]
+}
